@@ -4,4 +4,4 @@ I'm a graduate of Le Wagon's web developmnent bootcamp, and have since taken a k
 
 📫 How to reach me: benjaminkitson13@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminkitson&show_icons=true)
+![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminkitson&show_icons=true)
