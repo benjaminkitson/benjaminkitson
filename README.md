@@ -10,4 +10,4 @@ Get in touch at: benjaminkitson13@gmail.com
 <br>
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="50" width="50"/>
