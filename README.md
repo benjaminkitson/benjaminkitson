@@ -1,6 +1,6 @@
 Hi there, I'm Benjamin, a full-stack developer based in London, UK 🇬🇧
 
-I specialise in React and Node.js full-stack applications, and am passionate about transparency in tech, software that works for everyone and empowers its users,and making code as uncomplicated as possible.
+I specialise in React and Node.js full-stack applications, and am passionate about transparency in tech, software that works for everyone and empowers its users, and making code as uncomplicated as possible.
 
 I currently work as a full-stack Software Engineer at Penfold: https://getpenfold.com/
 
